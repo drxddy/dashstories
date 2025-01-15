@@ -1,16 +1,7 @@
 # dashstories
 
-A new Flutter project.
+dashtoon comic reader app, with state save from last reading
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="292" alt="Screenshot 2025-01-16 at 3 20 28 AM" src="https://github.com/user-attachments/assets/366c3be7-e498-4f49-b5c7-fc2b130958d8" />
+<img width="294" alt="Screenshot 2025-01-16 at 3 20 54 AM" src="https://github.com/user-attachments/assets/e165bada-bc5c-4491-a112-d9a6e4ab17b3" />
+<img width="294" alt="Screenshot 2025-01-16 at 3 20 54 AM" src="https://github.com/user-attachments/assets/a4e1ecbf-bd78-47ea-bdf8-552c210e11f8" />
